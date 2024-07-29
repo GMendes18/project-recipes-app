@@ -1,10 +1,42 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Recipes App
+
+# Contexto
+Este projeto trata-se de um app de receitas onde é possível: ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas!
+
+## Técnologias usadas
+
+Front-end:
+> Desenvolvido usando: React, Javascript, Typescript, ContextAPI
+
+## Instalando Dependências
+
+> Backend
+```bash
+cd api/ 
+npm install
+``` 
+> Frontend
+```bash
+cd src/
+npm install
+``` 
+## Executando aplicação
+
+* Para rodar o back-end:
+
+  ```
+  cd api/ && npm start
+  ```
+* Para rodar o front-end:
+
+  ```
+    cd src/ && npm start
+  ```
+
+## Executando Testes
+
+* Para rodar todos os testes:
+
+  ```
+    npm test
+  ```
